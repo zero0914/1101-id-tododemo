@@ -1,5 +1,6 @@
 {
   "name": "www",
+  "homepage": "https://zero0914.github.io/1101-id-tododemo/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
